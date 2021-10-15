@@ -1,5 +1,7 @@
 package main
 
+//Cyril RODRIGUES et Sam CONRAUX
+
 // Déclaration des différentes structures (perso, equipement, monstre)
 type perso struct {
 	name      string
